@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pro1c.org.ua/index.php%3Fshowuser%3D82801&ved=2ahUKEwjN2dH0q62XAxUvlOEIHT90I-44ChAWegQINhAB&usg=AOvVaw1xKWpxq3FCMd5ijlK9lljQ", 
+      "destination": "https://www.google.com/url?q=https%3A%2F%2Fblogverse.flazora.com&sa=D&sntz=1&usg=AOvVaw0G7lSjGpMjZchwTDwsLZ9l", 
       "permanent": true 
     } 
   ] 
