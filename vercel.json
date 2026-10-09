@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pro1c.org.ua/index.php%3Fshowuser%3D82801&ved=2ahUKEwjN2dH0q62XAxUvlOEIHT90I-44ChAWegQINhAB&usg=AOvVaw1xKWpxq3FCMd5ijlK9lljQ", 
+      "permanent": true 
+    } 
+  ] 
+}
