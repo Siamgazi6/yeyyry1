@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://www.linkbuzz.online/p/movie.html", 
+      "destination": "https://www.google.com/url?q=https%3A%2F%2Fauctionr.org%2F4%2F80e1168dd351df57a41352fa30b83f36&sa=D&sntz=1&usg=AOvVaw1_D_NlR0gZ0Zj59xilUWnZ", 
       "permanent": true 
     } 
   ] 
